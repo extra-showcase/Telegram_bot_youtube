@@ -1,2 +1,2 @@
-# Telegram_bot_youtube
+# Python_bot_youtube
 Youtube bot
